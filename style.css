@@ -34,9 +34,6 @@ body {
   background: #e7e5e5;
 }
 
-a {
-}
-
 li {
   list-style: none;
 }
@@ -154,6 +151,7 @@ li {
   height: calc(100vh);
   padding-top: 50px;
 }
+/* test */
 
 .intro {
   padding: 40px;
